@@ -49,13 +49,13 @@ SQLite3
 
   3. Kích hoạt môi trường ảo
   
-  Windows
-  
-   venv\Scripts\activate
-   
-  MacOS / Linux
-  
-   source venv/bin/activate
+     Windows
+     
+      venv\Scripts\activate
+      
+     MacOS / Linux
+     
+      source venv/bin/activate
   
   4. Cài đặt thư viện
   pip install -r requirements.txt
