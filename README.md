@@ -40,26 +40,25 @@ SQLite3
  ┗ 📜 requirements.txt   → Danh sách thư viện
 
 🚀 3. Hướng dẫn cài đặt
-1. Clone dự án
-git clone https://github.com/Huy-NTG/sentiment_assistant_seminar.git
-cd sentiment_assistant_seminar
+  1. Clone dự án
+  git clone https://github.com/Huy-NTG/sentiment_assistant_seminar.git
+  cd sentiment_assistant_seminar
 
-2. Tạo môi trường ảo
-python -m venv venv
+  2. Tạo môi trường ảo
+  python -m venv venv
 
-3. Kích hoạt môi trường ảo
-
-Windows
-
-venv\Scripts\activate
-
-
-MacOS / Linux
-
-source venv/bin/activate
-
-4. Cài đặt thư viện
-pip install -r requirements.txt
+  3. Kích hoạt môi trường ảo
+  
+  Windows
+  
+   venv\Scripts\activate
+   
+  MacOS / Linux
+  
+   source venv/bin/activate
+  
+  4. Cài đặt thư viện
+  pip install -r requirements.txt
 
 🏃‍♂️ 4. Chạy chương trình
 streamlit run main.py
