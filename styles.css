@@ -1,0 +1,46 @@
+/* === Kết quả phân loại === */
+.result-box {
+    padding: 15px;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 15px;
+    border: 2px solid #ccc;
+}
+
+/* Màu nền theo sentiment */
+.positive {
+    background-color: #d2f8d2;
+    color: #1b5e20;
+    border-color: #7edc82;
+}
+
+.neutral {
+    background-color: #fff7c2;
+    color: #8a6d00;
+    border-color: #e1cd73;
+}
+
+.negative {
+    background-color: #ffd6d6;
+    color: #7f0000;
+    border-color: #e38a8a;
+}
+
+/* Lịch sử */
+.history-item {
+    background-color: #ffffff !important;
+    padding: 12px;
+    border-radius: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+    color: #000 !important;     /* fix text invisible */
+    font-size: 15px;
+}
+
+/* Title */
+.section-title {
+    font-weight: 700;
+    margin-top: 25px;
+    font-size: 22px;
+}

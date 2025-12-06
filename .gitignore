@@ -1,0 +1,16 @@
+# Bỏ thư mục môi trường ảo
+venv/
+
+# Bỏ cache Python
+__pycache__/
+
+# Bỏ file database SQLite
+*.db
+*.sqlite3
+
+# Bỏ file log (phòng ngừa)
+*.log
+
+# Bỏ file của hệ điều hành
+.DS_Store
+Thumbs.db
